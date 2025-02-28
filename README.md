@@ -9,11 +9,13 @@ Softawre Engineering involves solving real world problems by building websites,a
 It is important in the sense that it helps solve real world problems.For example it may have been difficult for developers to collaborate on a project before but sice the coming about of version control like github developers can collaborate from anywhere in the world.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 1.Object Oriented programming which improved code reusability.This include concepts like;inheritance
 2.Cloud computing which has enabled scalability in access to computing power greatly improving softwware deployment.
 3.DevOps which has improved collaboration,automation and deployabilty.example;AWS,Azure
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 1.Plan-come up with project goals and timeline.
 2.Analysis-gather the neccesary requirements.
 3.Design
@@ -22,11 +24,13 @@ List and briefly explain the phases of the Software Development Life Cycle.
 6.Fix bugs and make updates.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Agile  method is an iteractive and incremental approach to software development and it emphasizes on flexibility,collaboration and customer feedback.may be suitable in large size projects.
 
 Waterfall methodology is a liear and sequential approach to software development and each phase must be completed before the next phase begins.may be favourable in small to medium sized projects.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 A software Developer writes,test and maintains the software code.He or she is responsible in identifying,analyzing and resolving software problems.
 
 Quality assurance engineer
@@ -41,6 +45,7 @@ Project manager
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 IDE is a software app that provides tools and features for software developmentt,testing and debugging code
 It provides a platform where software enginers can wite their code.
 It also allows for faster debbugging of code.
@@ -55,11 +60,13 @@ Examples include;Git,Mercurial
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 1.Managing complex systems can be overwhelming and require high level expertise.it can be dealt with through breakdown of the complex tasks into small manageable chunks.
 
 2.Keeping up with latest technologies can be challenging.This an be overcome through continous learning of new skills ,technologies and best practices to stay updated to the changing technologies.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
 Unit testing is a software testing technique whereby single unit of the source code is tested in isolation to ensure they behave in the expected manner.The goal is to verify each unit works correctly and independently before intergration with other units.It reduces debbugging time hence speeding up the development proccess.
 
 Intergration Testing is a software testing technique where multiple units of the source code are combined and tested together to ensure they work as expected upon intergration.It reduces defects by identifying and fixing issues early in the development proccess.
@@ -71,10 +78,12 @@ Acceptance testing is a software testing technique whre the system is tested to 
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
 Prompt Engineering refers to crafting questions to get the best possible responses of an AI model.
 It helps improve the interaction between humans and AI Models.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 Vague prompt: What is software Enginnering?
 
 Improved Prompt: Discuss in detail software engineering?
