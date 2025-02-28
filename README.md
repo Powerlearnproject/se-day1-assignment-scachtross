@@ -10,17 +10,24 @@ It is important in the sense that it helps solve real world problems.For example
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-1.Object Oriented programming which improved code reusability.This include concepts like;inheritance
+1.Object Oriented programming which improved code reusability.This include concepts like;inheritance.
+
 2.Cloud computing which has enabled scalability in access to computing power greatly improving softwware deployment.
+
 3.DevOps which has improved collaboration,automation and deployabilty.example;AWS,Azure
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
 1.Plan-come up with project goals and timeline.
+
 2.Analysis-gather the neccesary requirements.
+
 3.Design
+
 4.Write the code and test it.
+
 5.Deploy.
+
 6.Fix bugs and make updates.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
@@ -34,21 +41,28 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 A software Developer writes,test and maintains the software code.He or she is responsible in identifying,analyzing and resolving software problems.
 
 Quality assurance engineer
+
 1.Executes tests to identify bugs.
+
 2.Sets up,maintains and troubleshoots test environment.
+
 3.Documents bugs and collaborates with developers to reolve the bugs.
 
 Project manager
+
 1.Leads and manages the team.
+
 2.creates schedules ie timelines to complete a certain milestone.
+
 3.Assigns and manages resources.
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
-IDE is a software app that provides tools and features for software developmentt,testing and debugging code
+IDE is a software app that provides tools and features for software developmentt,testing and debugging code.
+
 It provides a platform where software enginers can wite their code.
-It also allows for faster debbugging of code.
+It also allows for faster debbugging of code
 It helps in project organization and managment.
 Examples include;Visual studio,Sublime Text,Pycharm
 
