@@ -5,10 +5,13 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+Softawre Engineering involves solving real world problems by building websites,apps,games,systems through writing code.
+It is important in the sense that it helps solve real world problems.For example it may have been difficult for developers to collaborate on a project before but sice the coming about of version control like github developers can collaborate from anywhere in the world.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
+1.Object Oriented programming which improved code reusability.This include concepts like;inheritance
+2.Cloud computing which has enabled scalability in access to computing power greatly improving softwware deployment.
+3.DevOps which has improved collaboration,automation and deployabilty.example;AWS,Azure
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
