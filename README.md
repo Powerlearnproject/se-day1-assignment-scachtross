@@ -56,6 +56,7 @@ Examples include;Git,Mercurial
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 1.Managing complex systems can be overwhelming and require high level expertise.it can be dealt with through breakdown of the complex tasks into small manageable chunks.
+
 2.Keeping up with latest technologies can be challenging.This an be overcome through continous learning of new skills ,technologies and best practices to stay updated to the changing technologies.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
@@ -75,6 +76,7 @@ It helps improve the interaction between humans and AI Models.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague prompt: What is software Enginnering?
+
 Improved Prompt: Discuss in detail software engineering?
 
 The AI model will give a more detailed response to the improved prompt of  compared to the response of the vague prompt.May be explain the term, give the history and the phases of software engineering,what it entails,its advantages and disadvantages.
